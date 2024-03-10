@@ -16,3 +16,4 @@ Daftar perintah GiT
 4. git add - menambahkan file yang masih dalam status untracked, unmodified untuk dilakukan commit
 5. git commit - menyiapkan file ke dalam tahap staging
 6. git push - melakukan perubahan ke branch berdasarkan file yang berada di tahap staging
+7. git merge - melakukan merging dari branch menuju ke main
